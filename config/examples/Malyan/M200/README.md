@@ -7,7 +7,8 @@ guide you through the configuration and compilation.
 2. Launch the IDE to add the ST boards manager:
    - Open the **Preferences** dialog.
    - Add this link in the "*Additional Boards Managers URLs*" field:
-      https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json
+NEW ->https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json      
+OLD ->https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json
    - Select "**Show verbose ouptut during: compilation**."
 3. Select **Tools** > **Board** > **Boards Manager**.
 4. Type "Malyan" into the Search field.
